@@ -98,6 +98,7 @@ python3 exercise_2_california_housing_regression.py
 
 ---
 
-## ✍️ Autor
-**Lucas Leite**  
-Projeto educacional — FIAP  
+## ✍️ Autores
+Lucas Miranda Leite RM: 555161
+Guilherme Damasio Roselli RM: 555873
+Gusthavo Daniel De Souza RM: 554681
